@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "servo": 1,
+      "angle": 60,
+      "speed": 3
+    },
+    {
+      "servo": 2,
+      "angle": 60,
+      "speed": 3
+    }
+  ]
+]
